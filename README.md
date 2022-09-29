@@ -1,6 +1,5 @@
 ### Saudações, aqui é o Brunno de Souza ✌️
 <br>
-
 Sou profissional de TI há cerca de 6 anos de experiência, com atuação nas áreas de suporte técnico e infraestrutura de TI.
 
 Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento de Projetos, Suporte a Usuários, Monitoramento, Zabbix, Grafana, Unifi, GLPI, Proxmox, VMware, Windows Server e Desktop, Linux, Firewall Huawei, SonicWall e PfSense. 
@@ -11,6 +10,8 @@ Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento d
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunno-de-souza/)](https://www.linkedin.com/in/brunno-de-souza/) 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/BrunnoDeSouza)](https://www.facebook.com/BrunnoDeSouza/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunno_de_souza/)](https://www.instagram.com/brunno_de_souza/) 
+
+<br>
 
 ---
 
@@ -38,6 +39,7 @@ Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento d
   <img align="center" alt="ms" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 
  <br>  
+ 
    <img align="center" alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
