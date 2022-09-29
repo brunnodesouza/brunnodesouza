@@ -2,8 +2,6 @@
 <br>
 Sou profissional de TI há cerca de 6 anos de experiência, com atuação nas áreas de suporte técnico e infraestrutura de TI.
 
-Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento de Projetos, Suporte a Usuários, Monitoramento, Zabbix, Grafana, Unifi, GLPI, Proxmox, VMware, Windows Server e Desktop, Linux, Firewall Huawei, SonicWall e PfSense. 
-
 <br>
 
 #### Siga-me nas redes sociais.
