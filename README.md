@@ -1,9 +1,8 @@
 ### Saudações, aqui é o Brunno de Souza ✌️
 <br>
 Sou profissional de TI há cerca de 6 anos de experiência, com atuação nas áreas de suporte técnico e infraestrutura de TI.
-
+<br>
 Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento de Projetos, Suporte a Usuários, Monitoramento, Zabbix, Grafana, Unifi, GLPI, Proxmox, VMware, Windows Server e Desktop, Linux, Firewall Huawei, SonicWall e PfSense. 
-
 <br>
 
 #### Siga-me nas redes sociais.
@@ -11,7 +10,7 @@ Conhecimentos: Infraestrutura de TI, Segurança da Informação, Gerenciamento d
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/BrunnoDeSouza)](https://www.facebook.com/BrunnoDeSouza/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunno_de_souza/)](https://www.instagram.com/brunno_de_souza/) 
 
-<br>
+
 
 ---
 
