@@ -1,4 +1,4 @@
-### Saudações, Aqui é o Brunno de Souza ✌️
+### Saudações, aqui é o Brunno de Souza ✌️
 <br>
 Sou profissional de TI há cerca de 6 anos de experiência, com atuação nas áreas de suporte técnico e infraestrutura de TI.
 
